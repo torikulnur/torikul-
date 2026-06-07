@@ -1,0 +1,6 @@
+{
+  "name": "T-Tech",
+  "description": "Premium cyber-entertainment IPTV dashboard optimized for deep mobile experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
